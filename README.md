@@ -3,6 +3,8 @@
 ## Overview
 The AI-Based Network Reconnaissance Tool combines AI (GPT-3/4) with Nmap to provide Network Security Administrators, Penetration Testers, and SOC Analysts with a solution for network reconnaissance. This tool converts natural language inputs into network scanning commands which makes the scanning process efficient and straightforward.
 
+The actual Documentation is only available upon request, which concerns the indepth research and the metrics used in training the model. 
+
 ## Features
 - **Natural Language Command Processing**: Users enter scan requests through text input or voice recognition. The AI model interprets these inputs and generates appropriate Nmap commands.
 - **Interactive Command Review**: Users can accept, modify, or cancel generated commands before execution.
